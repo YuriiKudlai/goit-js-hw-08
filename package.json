@@ -2,7 +2,7 @@
   "name": "c",
   "version": "2.0.0",
   "description": "**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**",
-  "homepage": "https://github.com/YuriiKudlai/goit-js-hw-08/settings/pages",
+  "homepage": "https://github.com/YuriiKudlai/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
